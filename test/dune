@@ -3,4 +3,4 @@
  (libraries base64 core patdiff.expect_test_patdiff expect_test_helpers_core
    base_quickcheck uri_parsing uri uri_jane)
  (preprocess
-  (pps ppx_jane ppx_typed_fields ppx_quick_test)))
+  (pps ppx_jane ppx_quick_test)))

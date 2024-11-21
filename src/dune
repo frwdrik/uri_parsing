@@ -5,4 +5,4 @@
    ppx_typed_fields.typed_fields_lib ppx_typed_fields.typed_variants_lib
    ppx_typed_fields.typed_field_map)
  (preprocess
-  (pps ppx_jane js_of_ocaml-ppx ppx_typed_fields)))
+  (pps ppx_jane js_of_ocaml-ppx)))
